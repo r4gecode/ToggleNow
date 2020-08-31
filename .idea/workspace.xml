@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ccc3a73-0130-4d03-b40f-c3a7f5009f3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/app/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp/src/styles.scss" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="firstAcademy" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ToggleNow_WebApp/FirstAcademyApp" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ggOLOuD8eO6RMb3dx5dwRZvyXA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Animesh_Stuffs/Personal/DeloitteUdemyLearning/git_repo" />
+    <property name="settings.editor.selected.configurable" value="Presentation Assistant" />
+  </component>
+  <component name="RecentsManager">
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="com.school.fa.constant.ServiceConstants" />
+      <recent name="com.school.fa.service.impl.StudentServiceImpl" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.school.fa.service.impl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.school.fa" />
+      <recent name="com.school.fa.service" />
+      <recent name="com.school.fa.service.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.school.fa.AppInitializer" />
+      <module name="Freelance_ToggleNow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.school.fa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppInitializer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ccc3a73-0130-4d03-b40f-c3a7f5009f3e" name="Default Changelist" comment="" />
+      <created>1598688737713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598688737713</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/service/impl/StudentServiceImpl.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/controller/StudentController.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/service/impl/StudentServiceImpl.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/service/impl/StudentServiceImpl.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/controller/DashboardController.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/service/impl/DashboardServiceImpl.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/service/impl/DashboardServiceImpl.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/service/impl/StudentServiceImpl.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/service/impl/StudentServiceImpl.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/service/impl/StudentServiceImpl.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/controller/AuthController.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/controller/AuthController.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/fa/controller/AuthController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/firstAcademy$AppInitializer.ic" NAME="AppInitializer Coverage Results" MODIFIED="1598699041923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.school.fa.*</FILTER>
+    </SUITE>
+  </component>
+</project>

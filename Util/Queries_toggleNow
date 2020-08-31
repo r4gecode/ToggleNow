@@ -1,0 +1,60 @@
+use firstAcademy;
+select * from student;
+select * from teacher;
+select * from principal;
+
+CREATE TABLE `principal` (
+  `principal_id` int(11) NOT NULL AUTO_INCREMENT,
+  `principal_email` varchar(255) DEFAULT NULL,
+  `principal_name` varchar(255) DEFAULT NULL,
+  `principal_pro_pic` varchar(255) DEFAULT NULL,
+  `principal_password` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`principal_id`),
+  UNIQUE KEY `unique_principal_email` (`principal_email`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+CREATE TABLE `teacher` (
+  `teacher_id` int(11) NOT NULL AUTO_INCREMENT,
+  `teacher_email` varchar(255) DEFAULT NULL,
+  `teacher_name` varchar(255) DEFAULT NULL,
+  `teacher_pro_pic` varchar(255) DEFAULT NULL,
+  `teacher_password` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`teacher_id`),
+  UNIQUE KEY `unique_teacher_email` (`teacher_email`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+CREATE TABLE `student` (
+  `student_id` int(11) NOT NULL AUTO_INCREMENT,
+  `student_email` varchar(255) DEFAULT NULL,
+  `student_name` varchar(255) DEFAULT NULL,
+  `student_pro_pic` varchar(255) DEFAULT NULL,
+  `student_password` varchar(255) DEFAULT NULL,
+  `student_roll` int(11) DEFAULT NULL,
+  `teacher_id` int(11) NOT NULL,
+  `created_by` varchar(49) NOT NULL,
+  `created_on` datetime NOT NULL,
+  PRIMARY KEY (`student_id`),
+  UNIQUE KEY `unique_student_email` (`student_email`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+CREATE TABLE `student` (
+  `student_id` int(11) NOT NULL AUTO_INCREMENT,
+  `student_email` varchar(255) DEFAULT NULL,
+  `student_name` varchar(255) DEFAULT NULL,
+  `student_pro_pic` varchar(255) DEFAULT NULL,
+  `student_password` varchar(255) DEFAULT NULL,
+  `student_roll` int(11) DEFAULT NULL,
+  `teacher_id` int(11) NOT NULL,
+  `created_by` varchar(49) NOT NULL,
+  `created_on` datetime NOT NULL,
+  PRIMARY KEY (`student_id`),
+  UNIQUE KEY `unique_student_email` (`student_email`),
+  KEY `teacher_id_idx` (`teacher_id`),
+  CONSTRAINT `teacher_id` FOREIGN KEY (`teacher_id`) REFERENCES `teacher` (`teacher_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+
